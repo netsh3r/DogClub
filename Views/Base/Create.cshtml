@@ -1,0 +1,27 @@
+﻿@using System.Linq.Expressions
+@using System.Reflection
+@model object;
+
+@{
+    var props = Model.GetType().GetProperties()
+        .Where(x => x.PropertyType.IsClass == false || x.PropertyType == typeof(string))
+        .ToDictionary(x => x.Name, x => x.GetValue(Model));
+}
+
+@using (Html.BeginForm("Save", "Breed", FormMethod.Post))
+{
+    foreach (var prop in props.Where(x => x.Key != "Id"))
+    {
+        <div>
+            @Html.Label(prop.Key)
+        </div>
+        <div>
+            @Html.Editor(prop.Key)
+        </div>
+    }
+    
+    @Html.Hidden("Id")
+    <p>
+        <input type="submit" value="Отправить"/>
+    </p>
+}

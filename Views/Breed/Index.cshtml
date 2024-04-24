@@ -1,0 +1,40 @@
+﻿@model DogClub.Dto.IndexDto;
+
+<a type="button" asp-action="Create">Создать</a>
+<table class="table table-striped table-bordered" id="sortTable">
+    <thead>
+    <tr>
+        @{
+            foreach (var dog in Model.Head)
+            {
+                <th>@dog.Description</th>
+            }
+            <th>Ссылка</th>
+        }
+    </tr>
+    </thead>
+    <tbody>
+    @{
+        foreach (var dog in Model.Value)
+        {
+            <tr>
+                @{
+                    var d = @dog.GetType().GetProperties().ToDictionary(x => x.Name, x => x.GetValue(dog));
+                    foreach (var head in Model.Head)
+                    {
+                        <td>@d[head.Name]</td>
+                    }
+                }
+                <td>
+                    <a asp-action="Edit" asp-route-id='@d["Id"]'>123</a>
+                </td>
+            </tr>
+        }
+    }
+    </tbody>
+</table>
+
+
+<script>
+$('#sortTable').DataTable();
+</script>

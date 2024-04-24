@@ -1,0 +1,31 @@
+﻿@using DogClub.Entities
+@model List<DogClub.Entities.Dogs>
+
+<table class="table table-striped table-bordered" id="sortTable">
+    <thead>
+    @foreach (var td in typeof(Dogs).GetProperties().Where(x => x.PropertyType.IsClass == false || x.PropertyType == typeof(string)))
+    {
+        <th>@td.Name</th>
+    }
+            <th>Ссылка</th>
+    </thead>
+    <tbody>
+    @foreach (var m in Model)
+    {
+        <tr>
+            @foreach (var td in typeof(Dogs).GetProperties().Where(x => x.PropertyType.IsClass == false || x.PropertyType == typeof(string)))
+            {
+                <td>@m.GetType().GetProperty(td.Name).GetValue(m)</td>
+            }
+                <td>
+                    <a asp-controller="Dog" asp-action="Edit" asp-route-id='@m.GetType().GetProperty("Id").GetValue(m)'>Ссылка на собаку</a>
+                </td>
+        </tr>
+    }
+    </tbody>
+</table>
+
+
+<script>
+$('#sortTable').DataTable();
+</script>

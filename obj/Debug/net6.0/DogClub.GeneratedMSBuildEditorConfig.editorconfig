@@ -5,175 +5,174 @@ build_property.UsingMicrosoftNETSdkWeb = true
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
-build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = DogClub
 build_property.RootNamespace = DogClub
-build_property.ProjectDir = D:\projects\Univ\DogClub\DogClub\
+build_property.ProjectDir = /Users/dmitryshiryayev/Documents/GitHub/DogClub/
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\projects\Univ\DogClub\DogClub
+build_property.MSBuildProjectDirectory = /Users/dmitryshiryayev/Documents/GitHub/DogClub
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Breed/Index.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Breed/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJlZWRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnJlZWQvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Diseases/Create.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Diseases/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzZWFzZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzZWFzZXMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Diseases/Edit.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Diseases/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzZWFzZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzZWFzZXMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Diseases/Index.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Diseases/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlzZWFzZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRGlzZWFzZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Dog/Edit.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Dog/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9nL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/MedicalHistory/Create.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/MedicalHistory/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbEhpc3RvcnlcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVkaWNhbEhpc3RvcnkvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/MedicalHistory/Edit.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/MedicalHistory/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbEhpc3RvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVkaWNhbEhpc3RvcnkvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/MedicalHistory/Index.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/MedicalHistory/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVkaWNhbEhpc3RvcnlcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvTWVkaWNhbEhpc3RvcnkvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Owner/Create.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Owner/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3duZXIvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Owner/Edit.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Owner/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3duZXIvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Owner/Index.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Owner/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcT3duZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvT3duZXIvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Parents/Create.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Parents/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50c1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyZW50cy9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Parents/Edit.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Parents/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50c1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyZW50cy9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Parents/Index.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Parents/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGFyZW50c1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvUGFyZW50cy9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Shows/Create.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Shows/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvd3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvd3MvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Shows/Edit.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Shows/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvd3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvd3MvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Shows/Index.cshtml]
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Shows/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = 
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hvd3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hvd3MvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Base/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVxDcmVhdGUuY3NodG1s
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Base/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFzZS9DcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Base/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVxFZGl0LmNzaHRtbA==
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Base/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFzZS9FZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Base/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFzZVxJbmRleC5jc2h0bWw=
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Base/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQmFzZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Breed/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJlZWRcQ3JlYXRlLmNzaHRtbA==
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Breed/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnJlZWQvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Breed/Edit.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnJlZWRcRWRpdC5jc2h0bWw=
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Breed/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvQnJlZWQvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Dog/Create.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXENyZWF0ZS5jc2h0bWw=
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Dog/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9nL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Dog/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRG9nXEluZGV4LmNzaHRtbA==
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Dog/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvRG9nL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Home/BaseMating.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxCYXNlTWF0aW5nLmNzaHRtbA==
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Home/BaseMating.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9CYXNlTWF0aW5nLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Home/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9JbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Home/Privacy.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvSG9tZS9Qcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Shared/Error.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL0Vycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Shared/_ValidationScriptsPartial.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/_ViewImports.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/_ViewStart.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/projects/Univ/DogClub/DogClub/Views/Shared/_Layout.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
-build_metadata.AdditionalFiles.CssScope = b-cvkag1bkdj
+[/Users/dmitryshiryayev/Documents/GitHub/DogClub/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3MvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-jvw9le1coe

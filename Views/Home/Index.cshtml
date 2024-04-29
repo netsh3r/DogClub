@@ -1,5 +1,15 @@
-﻿@{
+﻿@using DogClub.Entities
+@using DogClub.Entities.Repositories
+@inject EntityRepository<Dogs> DogRepository;
+@{
     ViewData["Title"] = "Home Page";
+    var dogs = DogRepository.GetAllAsync().GetAwaiter().GetResult();
+    var dogSelect = dogs.Select(x => new SelectListItem
+    {
+        Selected = false,
+        Text = x.Id.ToString(),
+        Value = x.Id.ToString()
+    });
 }
 
 <div class="text-center">
@@ -9,4 +19,36 @@
 
 <div>Получить отчеты:</div>
 <div>
+    <div>
+        @using (Html.BeginForm("BaseMating", "Home"))
+        {
+            <div class="input-group mb-3">
+                <div class="input-group-prepend">
+                    <button class="btn btn-secondary" type="submit">Получить собак для вязки</button>
+                </div>
+                <select class="custom-select" asp-items="dogSelect" id="dogId" name="dogId">
+                </select>
+            </div>
+        }
+        @using (Html.BeginForm("SpecialMating", "Home"))
+        {
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <button class="btn btn-secondary" type="submit">Получить собак для рабочей вязки</button>
+            </div>
+            <select class="custom-select" asp-items="dogSelect" id="dogId" name="dogId">
+            </select>
+        </div>
+        }
+        @using (Html.BeginForm("PremiumMating", "Home"))
+        {
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <button class="btn btn-secondary" type="submit">Получить собак для премиальной вязки</button>
+            </div>
+            <select class="custom-select" asp-items="dogSelect" id="dogId" name="dogId">
+            </select>
+        </div>
+        }
+    </div>
 </div>

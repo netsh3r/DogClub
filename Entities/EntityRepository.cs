@@ -1,12 +1,13 @@
 ﻿using System.Linq.Expressions;
 using System.Reflection;
+using DogClub.Entities.Repositories;
 using DogClub.Extensions;
 using DogClub.Models;
 using Microsoft.EntityFrameworkCore;
 
 namespace DogClub.Entities;
 
-public class EntityRepository<TEntity>
+public class EntityRepository<TEntity> : IEntityRepository<TEntity>
     where TEntity : BaseEntity
 {
     private readonly EfCoreDbContext _context;

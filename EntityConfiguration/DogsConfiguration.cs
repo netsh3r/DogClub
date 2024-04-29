@@ -4,7 +4,7 @@ using Microsoft.EntityFrameworkCore.Metadata.Builders;
 
 namespace DogClub.EntityConfiguration;
 
-public class DogsRepository : BaseEntityConfiguration<Dogs>
+public class DogsConfiguration : BaseEntityConfiguration<Dogs>
 {
     public override void Configure(EntityTypeBuilder<Dogs> builder)
     {

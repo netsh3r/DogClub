@@ -1934,19 +1934,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\dmitr\\.nuget\\packages\\": {}
+    "/Users/dmitryshiryayev/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\projects\\Univ\\DogClub\\DogClub\\DogClub.csproj",
+      "projectUniqueName": "/Users/dmitryshiryayev/Documents/GitHub/DogClub/DogClub.csproj",
       "projectName": "DogClub",
-      "projectPath": "D:\\projects\\Univ\\DogClub\\DogClub\\DogClub.csproj",
-      "packagesPath": "C:\\Users\\dmitr\\.nuget\\packages\\",
-      "outputPath": "D:\\projects\\Univ\\DogClub\\DogClub\\obj\\",
+      "projectPath": "/Users/dmitryshiryayev/Documents/GitHub/DogClub/DogClub.csproj",
+      "packagesPath": "/Users/dmitryshiryayev/.nuget/packages/",
+      "outputPath": "/Users/dmitryshiryayev/Documents/GitHub/DogClub/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\dmitr\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/dmitryshiryayev/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -2042,7 +2042,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/Users/dmitryshiryayev/.dotnet/sdk/6.0.418/RuntimeIdentifierGraph.json"
       }
     }
   }

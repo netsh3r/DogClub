@@ -9,17 +9,13 @@ namespace DogClub.Controllers;
 public class BaseController<TEntity> : Controller
     where TEntity : BaseEntity, new()
 {
-    private readonly EntityRepository<TEntity> _repository;
+    protected readonly EntityRepository<TEntity> _repository;
 
     public BaseController(EntityRepository<TEntity> repository)
     {
         _repository = repository;
     }
-
-    // public Task<IReadOnlyCollection<TEntity>> GetAllAsync(CancellationToken cancellationToken)
-    // {
-    //     return _repository.GetAllAsync(null, null, cancellationToken);
-    // }
+    
     public async Task<IActionResult> Index(CancellationToken cancellationToken)
     {
         var data = await _repository.GetAllAsync(null, null, cancellationToken);
